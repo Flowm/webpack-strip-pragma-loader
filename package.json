@@ -1,14 +1,14 @@
 {
-  "name": "strip-pragma-loader",
-  "version": "1.0.0",
+  "name": "webpack-strip-pragma-loader",
+  "version": "1.0.1",
   "description": "A webpack loader to strip out code blocks between RequireJS pragma style comments.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnalyticalGraphicsInc/strip-pragma-loader"
+    "url": "https://github.com/Flowm/webpack-strip-pragma-loader"
   },
   "bugs": {
-    "url": "https://github.com/AnalyticalGraphicsInc/strip-pragma-loader/issues"
+    "url": "https://github.com/Flowm/webpack-strip-pragma-loader/issues"
   },
   "keywords": [
     "webpack",
